@@ -90,6 +90,31 @@ a {
     display: flex;
 }
 
+.simpson-wife{
+    margin-top: 150px;
+    background-image:url(images/shape-1.png); 
+    background-repeat: no-repeat; 
+    background-size: 150px; 
+    background-position: 140px 100px;
+}
+
+.simpson-wife img{
+    width: 300px; 
+    height: 350px; 
+    margin-left: 200px; 
+    border-radius: 20px;
+}
+
+.simpson-wife-desc{
+    margin-right: 150px; 
+}
+
+.simpson-wife h3{
+    font-weight: 600; font-size: 30px; margin-bottom: 0px;
+}
+.simpson-wife p {
+    margin-top: 20px;
+}
 
 .orang-color{
     color: orange;
@@ -101,9 +126,20 @@ a {
     padding-top: 5%;
 }
 
+.width-60-percent{
+    width: 60%;
+}
+
+.width-40-percent{
+    width: 40%;
+}
 
 
 #simpson-family-img{
     width: 350px;
 
+}
+
+#scroll-text{
+    font-size: 0.9em;
 }
