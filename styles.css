@@ -9,6 +9,7 @@ a {
 
 .the-simpsons{
     display: flex;
+    margin-top: 50px;
 }
 
 .the-simpsons a {
@@ -34,6 +35,62 @@ a {
     margin: 5px;
 }
 
+
+.the-simpson-family-childrens{
+    margin-top: 150px;
+}
+
+.the-simpson-family-childrens h2{
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.simpson-siblings{
+    width: 30%;
+    border-radius: 20px;
+    padding: 0px 30px 20px;
+}
+
+#bart{
+    background-color: rgba(139, 173, 216, 0.205); 
+    margin: 0px 10px 0px 150px;
+}
+
+#bart img{
+    width: 80px; 
+    height: 100px; 
+    padding-top: 30px;
+}
+
+#lisa{
+    background-color: rgba(236, 245, 110, 0.514); 
+    margin: 0px 30px;    
+}
+
+#lisa img{
+    width: 60px; 
+    height: 90px; 
+    padding-top: 30px;
+}
+
+#maggie{
+    background-color: rgba(228, 138, 36, 0.301);
+    margin: 0px 150px 0px 10px;
+    
+}
+
+#maggie img{
+    width: 60px; 
+    height: 90px; 
+    padding-top: 30px;
+}
+
+.simpson-childrens{
+    display: flex;
+}
+
+
 .orang-color{
     color: orange;
 }
@@ -43,6 +100,7 @@ a {
     padding-left: 5%;
     padding-top: 5%;
 }
+
 
 
 #simpson-family-img{
